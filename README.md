@@ -28,3 +28,5 @@ Package manager:
 ```powershell
 Install-Package Telegram.Bot.Extensions.LoginWidget
 ```
+
+No terminal; stuckup at usage&install. New file?
